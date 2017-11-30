@@ -1,5 +1,7 @@
 package com.vraj.playground.hrank;
 
+import java.util.Scanner;
+
 /**
  * https://www.hackerrank.com/challenges/chief-hopper/problem
  * 
